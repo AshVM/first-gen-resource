@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+nav {
+    background-color: #84A98C;
+    padding: 1em;
+    text-align: center;
+    font-weight: 670;
+    
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    color: #2F3E46;
+    padding: 0.5em;
+}
+
+body {
+    background-color: #CAD2C5;
+    font-family: 'Open Sans', sans-serif;
+}
