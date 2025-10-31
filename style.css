@@ -9,7 +9,7 @@ html {
 }
 
 nav {
-    background-color: #84A98C;
+    background-color: #52796F;
     padding: 1em;
     text-align: center;
     font-weight: 670;
@@ -26,8 +26,34 @@ li a {
     padding: 0.5em;
 }
 
+#intro {
+    padding: 1em;
+    
+}
+
+#resources {
+    padding: 1em;
+    color: #52796F;
+}
+
 body {
     background-color: #CAD2C5;
     font-family: 'Open Sans', sans-serif;
-    align-items: center;
+    text-align: center;
+}
+
+footer {
+    background-color: #2F3E46;
+    text-align: left;
+    padding: 1.5em;
+    padding-bottom: 0.5em;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    color: #CAD2C5;
+    
+    p {
+        text-align: right;
+        padding-right: 3em;
+    }
 }
