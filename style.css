@@ -14,10 +14,15 @@ nav {
     text-align: center;
     font-weight: 670;
     
+    li {
+        display: inline;
+       
+    }
+    
 }
 
-li {
-    display: inline;
+a:hover {
+   text-decoration: underline;
 }
 
 li a {
@@ -28,12 +33,15 @@ li a {
 
 #intro {
     padding: 1em;
+    color: #354F52;
     
 }
 
 #resources {
     padding: 1em;
     color: #52796F;
+   
+   
 }
 
 body {
